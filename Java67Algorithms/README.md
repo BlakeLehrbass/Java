@@ -59,7 +59,7 @@ https://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-
 46:	Print all nodes of given binary tree using inorder traversal without recursion  
 47:	Check if a given binary tree is a binary search tree?  
 48:	Check if a binary tree is balanced or not?  
-49:	Given a binary search tree, how do you check whether there are two nodes in it whose sum equals a given value?	
+49:	Given a binary search tree, how do you check whether there are two nodes in it whose sum equals a given value?  
 50:	Convert a binary search tree to a sorted doubly-linked list. you are only allowed to change the target of pointers but cannot create any new nodes.  
 51:	Given a binary search tree and a value k, How do you find a node in the binary search tree whose value is closest to k.  
 52:	How do you implement a Queue using two Stacks?  
