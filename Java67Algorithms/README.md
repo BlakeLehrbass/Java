@@ -1,9 +1,12 @@
 # Java 67 Algorithms
 
 I have solved 90 Java problems and documented my solutions.  
+
 The problems can be found here:  
 https://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-programmers.html  
 (Note that the numbering of the problems here is not necessarily the same as what's on the website.)  
+
+The "Constitution.txt" file is for one of the problems (Task87).
 
 ## String:
 1:	Print duplicate characters from string?  
